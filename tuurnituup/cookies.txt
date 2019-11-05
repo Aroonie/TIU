@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.turnitup.tk	TRUE	/	FALSE	1999999999	__cfduid	d05fb60b5c132a48e17d67ad30993d05f1572936558
-
